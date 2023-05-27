@@ -16,7 +16,7 @@ https://anahitxachatryan-recommender-system-for-shein-app-umikfs.streamlit.app/
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install requirements.
 
 ```bash
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Run
