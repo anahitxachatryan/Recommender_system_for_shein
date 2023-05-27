@@ -14,9 +14,12 @@ Online shopping has become very popular recently. In order to create a smooth cu
 https://anahitxachatryan-recommender-system-for-shein-app-umikfs.streamlit.app/
 
 ## How to run?
+Note: Clone the repo
 ```bash
 git clone https://github.com/anahitxachatryan/recommender_system_for_shein.git
 ```
+Note: Create a virual environment
+Note: Activate the virtual environment
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install requirements.
 
 ```bash
