@@ -14,7 +14,7 @@ Online shopping has become very popular recently. In order to create a smooth cu
 https://anahitxachatryan-recommender-system-for-shein-app-umikfs.streamlit.app/
 
 ## How to run?
-Note: Clone the repo
+- Clone the repo
 ```bash
 git clone https://github.com/anahitxachatryan/recommender_system_for_shein.git
 ```
