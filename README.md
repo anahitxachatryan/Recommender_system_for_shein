@@ -1,8 +1,8 @@
 # Product recommendation system for internet shopping (SHEIN.com)
+#### This application is build using **Streamlit** Python Framework.
 
 Online shopping has become very popular recently. In order to create a smooth customer experience, e-commerce stores try to find new solutions to be on a competitive edge. One of the key success factors of an e-commerce shop is a quality recommendation system. 
 
-#### This application is build using **Streamlit** Python Framework.
 
 ## Features
 - A visual similarity-based recommender system based on transfer learning techniques
