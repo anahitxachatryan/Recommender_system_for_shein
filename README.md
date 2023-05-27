@@ -11,19 +11,8 @@ Online shopping has become very popular recently. In order to create a smooth cu
 
 ## DEMO
 https://anahitxachatryan-recommender-system-for-shein-app-umikfs.streamlit.app/
-**Links  ➞  Buttons**
+[![Open App](https://img.shields.io/badge/Open-App-blue)](https://anahitxachatryan-recommender-system-for-shein-app-umikfs.streamlit.app/)
 
-<br>
-<br>
-
-[<kbd> <br> KeyBinding Button <br> </kbd>][KBD]
-
-[![Button Shield]][Shield]
-
-</div>
-
-<br>
-<br>
 ## How to run?
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install requirements.
 
