@@ -18,9 +18,9 @@ Note: Clone the repo
 ```bash
 git clone https://github.com/anahitxachatryan/recommender_system_for_shein.git
 ```
-Note: Create a virual environment
-Note: Activate the virtual environment
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install requirements.
+- Create a virual environment
+- Activate the virtual environment
+- Use the package manager [pip](https://pip.pypa.io/en/stable/) to install requirements.
 
 ```bash
 pip install -r requirements.txt
